@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://img.shields.io/github/followers/papillonlut?color=green"/>
+  <img src="https://img.shields.io/twitter/follow/papillonlut"/>
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCpyCSFHfvTYYclGmzdbqjQQ"/>
+  <img src="https://img.shields.io/badge/built_with-💖-blue"/>
+</div>
+
 Salut,
 Je m'appelle Papillonlut, j'ai 17 ans et je souhaiterais intégrer une école de dev.
 J'ai commencé le développement sur Discord en 2020, je voulais un bot pour un serveur avec mes potes mais j'ai tout de suite adhérer à ce loisirs et maintenant souhaite l'étendre à mon futur travail, pour l'instant je veux me créer un portfolio en **"Béton"**.
