@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://img.shields.io/github/followers/papillonlut?color=green"/>
-  <img src="https://img.shields.io/twitter/follow/papillonlut"/>
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCpyCSFHfvTYYclGmzdbqjQQ"/>
-  <img src="https://img.shields.io/badge/built_with-💖-blue"/>
+  <a href="#"><img src="https://img.shields.io/github/followers/papillonlut?color=green"/></a>
+  <a href="https://x.com/papillonlut" target="_blank"><img src="https://img.shields.io/twitter/follow/papillonlut"/></a>
+  <a href="https://www.youtube.com/@papillonlut" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCpyCSFHfvTYYclGmzdbqjQQ"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/built_with-💖-blue"/></a>
 </div>
 
 Salut,
