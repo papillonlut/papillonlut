@@ -17,4 +17,4 @@ Je tiens à vous informer que mon Profil GitHub est un *Brouillon* enfin, je veu
 
 Merci de votre attention !
 
-Un jour ma détermination sera tel que je perfectionnerais tout.
+*Un jour ma détermination sera tel que je perfectionnerais tout.*
