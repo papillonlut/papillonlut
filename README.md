@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#"><img src="https://img.shields.io/github/followers/papillonlut?color=green"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/built_with-💖-blue"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Made_with-💖-blue"/></a>
 </div>
 
 Salut,
