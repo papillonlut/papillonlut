@@ -1,7 +1,5 @@
 <div align="center">
   <a href="#"><img src="https://img.shields.io/github/followers/papillonlut?color=green"/></a>
-  <a href="https://x.com/papillonlut"><img src="https://img.shields.io/twitter/follow/papillonlut"/></a>
-  <a href="https://www.youtube.com/@papillonlut"><img src="https://img.shields.io/youtube/channel/subscribers/UCpyCSFHfvTYYclGmzdbqjQQ"/></a>
   <a href="#"><img src="https://img.shields.io/badge/built_with-💖-blue"/></a>
 </div>
 
