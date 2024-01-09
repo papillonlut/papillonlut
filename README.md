@@ -12,8 +12,8 @@ Depuis, j'ai fait de grands progrès dans la programmation, faisant de nombreux 
 Les langages dans lesquels je suis compétent sont sur mon GitHub.
 
 Vous pourrez retrouver toutes mes créations sur mon Profil.
-Je tiens à vous informer que mon Profil GitHub est un *Brouillon* enfin, je veux dire que ce sont toutes mes réalisations, achevée ou… pas, mais une source d'inspiration si je puis dire.
+Je tiens à vous informer que mon Profil GitHub est un *Brouillon* enfin, je veux dire que ce sont toutes mes réalisations, achevées ou… pas, mais une source d'inspiration si je puis dire.
 
 Merci de votre attention !
 
-*Un jour ma détermination sera tel que je perfectionnerais tout.*
+*Un jour ma détermination sera telle que je perfectionnerai tout.*
