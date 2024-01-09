@@ -1,7 +1,8 @@
-<a href=""><img src="https://img.shields.io/github/followers/papillonlut?label=Followers&style=flat&link=%23"/></a>
-
-<a href=""><img src="https://img.shields.io/badge/%E3%85%A4-Buy_Me_Coffee-yellow?logo=buymeacoffee"/></a>
-<a href=""><img src="https://img.shields.io/badge/Made_with-%F0%9F%92%96-black?labelColor=%23ff007f&link=%23"/></a>
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/github/followers/papillonlut?label=Followers&style=flat&link=%23"/></a>
+  <a href="https://www.buymeacoffee.com/papillonlut"><img src="https://img.shields.io/badge/%E3%85%A4-Buy_Me_Coffee-yellow?logo=buymeacoffee"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Made_with-%F0%9F%92%96-black?labelColor=%23ff007f&link=%23"/></a>
+</div>
 
 Salut,
 Je m'appelle Papillonlut, j'ai 17 ans et je souhaiterais intégrer une école de dev.
